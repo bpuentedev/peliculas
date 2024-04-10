@@ -1,27 +1,4 @@
 {
-    "libros": [
-      {
-        "título": "Cien años de soledad",
-        "autor": "Gabriel García Márquez",
-        "editorial": "HarperCollins",
-        "añoPublicación": 1967,
-        "valoración": 5
-      },
-      {
-        "título": "1984",
-        "autor": "George Orwell",
-        "editorial": "Secker & Warburg",
-        "añoPublicación": 1949,
-        "valoración": 4
-      },
-      {
-        "título": "El nombre del viento",
-        "autor": "Patrick Rothfuss",
-        "editorial": "DAW Books",
-        "añoPublicación": 2007,
-        "valoración": 5
-      }
-    ],
     "películas": [
       {
         "título": "El Señor de los Anillos: La Comunidad del Anillo",
