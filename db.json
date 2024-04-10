@@ -4,21 +4,21 @@
         "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
         "director": "Peter Jackson",
         "productora": "New Line Cinema",
-        "añoEstreno": 2001,
+        "year": 2001,
         "valoracion": 5
       },
       {
         "titulo": "Inception",
         "director": "Christopher Nolan",
         "productora": "Warner Bros.",
-        "añoEstreno": 2010,
+        "year": 2010,
         "valoracion": 5
       },
       {
         "titulo": "Interstellar",
         "director": "Christopher Nolan",
         "productora": "Paramount Pictures",
-        "añoEstreno": 2014,
+        "year": 2014,
         "valoracion": 4
       }
     ]
